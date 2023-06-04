@@ -1,4 +1,4 @@
-# Tren-chatbot
+# Tren2-chatbot
 
 The Tren-Chatbot is a Rasa-based movie recommender chatbot created as part of a Bachelor Semester Project. The project aims to investigate the impact of recommendation length on the usability of a CRS (Content-based Recommender System). The chatbot utilizes a .csv dataset containing movie information to provide movie recommendations to users based on their preferences.
 
