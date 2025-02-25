@@ -8,6 +8,7 @@ intents:
 - greet
 - provide_genre
 - thanks
+- thank you
 
 entities:
 - genres
